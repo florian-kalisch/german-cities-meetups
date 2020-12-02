@@ -1,4 +1,4 @@
-# german-cities-meetups
+# Meetup density
 The purpose of this repository is to analyze the density of meetup groups in some German cities. The result could be used as a quick comparison of the socialness of cities.
 
 ## The data
